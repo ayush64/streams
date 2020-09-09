@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great Stream",
+      "id": 1
+    },
+    {
+      "title": "React Library",
+      "description": "New Java script Library",
+      "userId": "116953997942179870790",
+      "id": 2
+    },
+    {
+      "title": "Unexpected Behaviour",
+      "description": "Didn't expect it to behave that",
+      "userId": "116953997942179870790",
+      "id": 3
+    }
+  ]
+}
